@@ -1,0 +1,28 @@
+{
+  "name": "@theunwindfront/tailwindcss-fluid-scale",
+  "version": "1.0.0",
+  "description": "Tailwind CSS v4 plugin for automatic, fluid typography and dynamic spacing scales using native CSS clamp().",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theunwindfront/tailwindcss-fluid-scale.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwindcss-plugin",
+    "fluid-typography",
+    "fluid-spacing",
+    "clamp",
+    "fluid-scale",
+    "responsive"
+  ],
+  "author": "Sagar Pansuriya (theunwindfront)",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": "^4.0.0"
+  }
+}
