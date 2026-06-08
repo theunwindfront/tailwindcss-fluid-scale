@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/tailwindcss-fluid-scale)
 [![Total Downloads](https://img.shields.io/packagist/dt/theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/tailwindcss-fluid-scale)
 [![NPM Version](https://img.shields.io/npm/v/%40theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://www.npmjs.com/package/@theunwindfront/tailwindcss-fluid-scale)
-[![NPM Downloads](https://img.shields.io/npm/dm/%40theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://www.npmjs.com/package/@theunwindfront/tailwindcss-fluid-scale)
+[![NPM Downloads](https://img.shields.io/npm/dt/@theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://www.npmjs.com/package/@theunwindfront/tailwindcss-fluid-scale)
 [![License](https://img.shields.io/packagist/l/theunwindfront/tailwindcss-fluid-scale.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/tailwindcss-fluid-scale)
 
 A high-performance, design-system integrated Tailwind CSS v4 plugin to compile mathematically fluid typography and spacing scales dynamically using native CSS `clamp()`.
