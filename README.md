@@ -33,7 +33,10 @@ The plugin programmatically reads boundaries directly from the active `@theme` c
 
 ## Installation
 
+Install the package via Composer (for Laravel integration) and NPM (for the Tailwind CSS plugin):
+
 ```bash
+composer require theunwindfront/tailwindcss-fluid-scale
 npm install @theunwindfront/tailwindcss-fluid-scale
 ```
 
