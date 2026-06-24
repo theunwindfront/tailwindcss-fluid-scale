@@ -1,6 +1,6 @@
 {
   "name": "@theunwindfront/tailwindcss-fluid-scale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind CSS v4 plugin for automatic, fluid typography and dynamic spacing scales using native CSS clamp().",
   "main": "src/index.js",
   "scripts": {
