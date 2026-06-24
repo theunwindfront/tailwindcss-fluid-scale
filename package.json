@@ -22,6 +22,9 @@
   ],
   "author": "Sagar Pansuriya (theunwindfront)",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "tailwindcss": "^4.0.0"
   }
